@@ -4,8 +4,11 @@ class Item {
 	double price;
 
 	//TODO add variable.
-int tip a=18;
-int tip b=
+int tip;
+tip =18;
+tip=5;
+tip=0;
+
 	//TODO iconstructor
 
 	//TODO setters and getters
